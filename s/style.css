@@ -1,0 +1,66 @@
+/* from http://html5doctor.com/html-5-reset-stylesheet/ */
+@import url("reset.css");
+@import url("fonts.css");
+body{
+  font: normal medium ;
+  font-family: "Linux Libertine"; /*"Book Antiqua",Cambria,Palatino,Georgia,serif;*/
+  padding: 0;
+  margin: 0 auto;
+  width: 42em;
+  line-height: 1.75;
+  word-spacing: 0.1em;
+}
+header object {
+  float: right;
+}
+header h1{
+  letter-spacing: 0.4em;
+  margin:0;
+  font-size: 2.571em;
+  font-style: bold;
+}
+h2 {font-size: 1.571em} /* 22px */
+h3 {font-size: 1.429em} /* 20px */
+h4 {font-size: 1.286em} /* 18px */
+h5 {font-size: 1.143em} /* 16px */
+h6 {font-size: 1.000em} /* 14px */
+
+article h1,section h1{
+  letter-spacing: 0;
+  text-align: left; 
+  margin-bottom: 1em;
+  font-size: 1.286em;
+  font-style: bold;
+}
+article{
+  margin: 1em 6em;
+}
+article time{
+  margin-left: -6em;
+  margin-top: .4em;
+  float: left;
+}
+nav {
+  margin-left: 6em;
+}
+nav time{
+  margin-left: -6em;
+  float: left;
+}
+p.c{
+  text-align:center
+}
+address.primary{
+  float: left;
+  text-align: center;
+}
+address .bio {
+  margin-left: 20em;
+}
+license #liclink{
+  float: left;
+  margin-top: 0.75em;
+}
+license p{
+  margin-left: 6em;
+}

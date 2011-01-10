@@ -1,0 +1,15 @@
+@font-face{
+  font-family:"Essays 1743";
+  src:url("../f/essays1743-min.eot");
+  src:local("Essays 1743"), url("../f/essays1743-min.ttf")
+}
+@font-face{
+  font-family:"Essays 1743 Italic";
+  src:url("../f/essays1743i-min.eot");
+  src:local("Essays 1743 Italic"),url("../f/essays1743i-min.ttf")
+}
+@font-face{
+  font-family:"Linux Libertine";
+  src:url("../f/lin-libertine-min.eot");
+  src:local("Linux Libertine"),url("../f/lin-libertine-min.ttf")
+}
